@@ -1,4 +1,5 @@
 # API Key Detector 🔍
+made in l0v3 bY kArmasec
 
 A Python template to scan websites for exposed API keys, tokens, and secrets in HTML, JavaScript, JSON, and other resources.
 
@@ -24,4 +25,6 @@ python api_key_detector.py https://example.com --output json
 ```
 
 ## Important
-This is intended for authorized security testing only. Do not scan sites you do not own or do not have permission to test.
+Have fun
+
+made in l0v3 bY kArmasec
